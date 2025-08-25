@@ -101,6 +101,7 @@ booth_wallace_multiplier #(.WIDTH(8)) uut (
 ## 👩‍💻 Contributors
 
 - [@im-sks](https://github.com/im-sks) (Author & Maintainer)
+- [@sikandar-irfan](https://github.com/sikandar-irfan) (Author & Maintainer)
 
 ---
 
